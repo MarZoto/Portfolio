@@ -6,13 +6,13 @@ from datetime import datetime, timedelta
 
 
 connection = {'host': 'https://clickhouse.lab.karpov.courses',
-                      'database':'simulator_20220820',
+                      'database':'-',
                       'user':'student', 
                       'password':'dpo_python_2020'
                      }
 
 connection_test = {'host': 'https://clickhouse.lab.karpov.courses', 
-                           'password': '656e2b0c9c',
+                           'password': '-',
                            'user': 'student-rw',
                            'database': 'test'}
 

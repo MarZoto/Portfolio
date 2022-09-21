@@ -19,15 +19,15 @@ from airflow.operators.python import get_current_context
 
 # connetction BD
 connection = {'host': 'https://clickhouse.lab.karpov.courses',
-              'password': 'dpo_python_2020',
+              'password': '',
               'user': 'student',
               'database': 'simulator_20220820.feed_actions'
               }
 
 # настройка бота
-my_token = '5733759253:AAGclXnoYy-vcRt_iMXSzsZOERGLg95uBsM'
+my_token = '5933759253:pAGclXnoYy-vcRt_iMXSzsZOERGLg95uBsM'
 bot = telegram.Bot(token=my_token)
-chat_id = 587930023
+chat_id = 587960076
 
 
 
