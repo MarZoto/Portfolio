@@ -5,6 +5,6 @@
 - Посмотреть повторяются ли они из месяца в месяц
 - Предоставить списки этих магазинов
 ## Используемые библиотеки
-*pandas, numpy, datetime, matplotlib, requests*
+*pandas, numpy, datetime, matplotlib, Collections.Counter*
 
 
