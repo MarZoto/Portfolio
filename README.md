@@ -10,6 +10,6 @@
 | [Выявление неплатящих клиентов](clients_who_didnt_pay) | Выявить неплатящих клиентов в течение нескольких месяцев | *pandas, numpy, datetime, matplotlib, requests* |
 | [Рассчет Retention учебный проект](study_project_retention) | Рассчитать Retention для определенных групп | *pandas, pandahouse, matplotlib, seaborn* |
 | [AB tests учебный проект](study_project_AB_test) | Провести анализ проведенного AB теста | *pandas, numpy, datetime, matplotlib, scipy.stats, requests* |
-| [Bot_telegram](study_project_bot_telegramm) | Написать скрипт сборки отчета для отправки в чат | *pandas, numpy, datetime, matplotlib, pandahouse, io, telegram, airflow_decorators, warnings* |
-[Dag_airflow](study_project_dag_airflow) | Создать таблицу с данными | *pandas, numpy, datetime,  pandahouse,  airflow_decorator* |
+| [Bot_telegram учебный проект](study_project_bot_telegramm) | Написать скрипт сборки отчета для отправки в чат | *pandas, numpy, datetime, matplotlib, pandahouse, io, telegram, airflow_decorators, warnings* |
+[Dag_airflow учебный проект](study_project_dag_airflow) | Создать таблицу с данными | *pandas, numpy, datetime,  pandahouse,  airflow_decorator* |
 
