@@ -3,9 +3,9 @@
 #### Описание проекта
 Часть 1:
 Как соотносятся между собой:
-FTT и sign up
-FTT и FTU
-FTU и sign up
+Transaction и sign up
+Transaction и upgrade
+Upgrade и sign up
 Часть 2:    
 Посмотреть есть ли какие-то тенденции по странам. Выбрать топ 10 стран.
 
