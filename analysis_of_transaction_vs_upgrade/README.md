@@ -5,7 +5,10 @@
 Как соотносятся между собой:
 Transaction и sign up,
 Transaction и upgrade,
-Upgrade и sign up,
+Upgrade и sign up
+
+
+
 Часть 2:    
 Посмотреть есть ли какие-то тенденции по странам. 
 ## Используемые библиотеки
